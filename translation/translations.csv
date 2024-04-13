@@ -561,6 +561,7 @@ Page.title.starshipWeaponsSelection,Starship Weapons,Raumschiffwaffen,,Armes de 
 Page.title.modificationTypeSelection,Modification Type,Art der Änderung,,Type de modification,,Tipo de Modificação
 Page.title.reputationChange,Reputation Change,Änderung des Ansehens,,Changer la Réputation,,Mudança de Reputação
 Page.title.promotion,Promotion,Beförderung,,Promotion,,Promoção
+Page.title.freeformModification,Freeform Modification,,,,,
 Page.title.normalMilestone,Normal Milestone,Regulärer Meilenstein,,Jalon Normal,,Marco de História Normal
 Page.title.modificationComplete,Modification Completed,Änderung abgeschlossen,,Modification Effectuée,,Modificação Concluída
 Page.title.npcConfiguration,Random NPC Configuration,Anpassung zufälliger NSCs,,Configuration des PNJ Aléatoires,,Configuração de PdM Aleatórios
@@ -1330,6 +1331,7 @@ HeadType.roundedHeavy,"Rounded, Heavy","Abgerundet, Gewichtig",,,,"Arredondado, 
 ModificationType.name.reputation,Reputation,Ansehen,,Réputation,,Reputação
 ModificationType.name.promotion,Promotion,Beförderung,,Promotion,,Promoção
 ModificationType.name.milestone,Milestone,Meilenstein,,Jalon d'Expérience,,Marco de História
+ModificationType.name.freeform,Freeform,,,,,
 MilestoneType.name.normalMilestone,Normal Milestone,Regulärer Meilenstein,,Jalon Normal,,Marco de História Normal
 MilestoneType.name.spotlightMilestone,Spotlight Milestone,Rampenlicht-Meilenstein,,Jalon Sous les Projecteurs,,Marco de História de Holofote
 MilestoneType.name.arcMilestone,Arc Milestone,Handlungsbogen-Meilenstein,,Jalon Arc de Personnage,,Marco de História de Arco

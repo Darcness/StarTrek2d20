@@ -550,6 +550,7 @@
     "Page.title.modificationTypeSelection": "Modification Type",
     "Page.title.reputationChange": "Reputation Change",
     "Page.title.promotion": "Promotion",
+    "Page.title.freeformModification": "Freeform Modification",
     "Page.title.normalMilestone": "Normal Milestone",
     "Page.title.modificationComplete": "Modification Completed",
     "Page.title.npcConfiguration": "Random NPC Configuration",
@@ -1066,6 +1067,7 @@
     "ModificationType.name.reputation": "Reputation",
     "ModificationType.name.promotion": "Promotion",
     "ModificationType.name.milestone": "Milestone",
+    "ModificationType.name.freeform": "Freeform",
 
     "MilestoneType.name.normalMilestone": "Normal Milestone",
     "MilestoneType.name.spotlightMilestone": "Spotlight Milestone",

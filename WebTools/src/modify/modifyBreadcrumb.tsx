@@ -34,6 +34,9 @@ export const ModifyBreadcrumb = (props: IModifyBreadcrumbProperties) => {
   else if (milestoneType > -1) activePageTitle = MilestoneType[milestoneType];
   else {
     switch (modificationType) {
+      case ModificationType.Freeform:
+        activePageTitle = "modificationFreeform";
+        break;
       case ModificationType.Promotion:
         activePageTitle = "promotion";
         break;
